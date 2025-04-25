@@ -1,0 +1,11 @@
+
+# Ignora pastas
+Input/
+Output/
+
+#Arquivos Excel
+*.xlsx
+*.xlsm
+
+__pycache__/
+*.py[cod]
